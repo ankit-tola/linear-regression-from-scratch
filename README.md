@@ -23,7 +23,8 @@ linear_regression/
 - Trains a **Linear Regression** model  
 - Evaluates performance (R² score, MSE, RMSE, etc.)  
 - Visualizes results with **Matplotlib**  
-![Uploading Screenshot 2025-08-20 235550.png…]()
+<img width="621" height="533" alt="Screenshot 2025-08-20 235550" src="https://github.com/user-attachments/assets/0bce0fe9-90ee-44b4-b592-03499fa1bb57" />
+
 
 ---
 
