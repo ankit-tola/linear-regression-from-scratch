@@ -1,13 +1,23 @@
-# Linear Regression from Scratch
+Linear Regression: Gradient Descent vs Normal Equation
 
-This project implements **Linear Regression** in Python without scikit-learn.  
-It supports:
-- Normal Equation (direct solution)
-- Gradient Descent (iterative optimization)
+This project demonstrates how Linear Regression can be implemented in Python using two approaches:
 
-## 🚀 How to Run
-```bash
-git clone https://github.com/YOUR_USERNAME/linear-regression-from-scratch.git
-cd linear-regression-from-scratch
-pip install -r requirements.txt
-python example.py
+Gradient Descent – iterative optimization.
+
+Normal Equation – analytical closed-form solution.
+
+Both methods are applied to the same dataset, and their results are compared visually.
+
+📌 Features
+
+Implements Linear Regression from scratch (no sklearn.linear_model).
+
+Compares Gradient Descent vs Normal Equation.
+
+Plots the regression lines along with dataset points.
+
+Supports custom learning rate, iterations, and dataset size.
+
+⚙️ Installation
+
+Clone the repo:
